@@ -1,4 +1,6 @@
-#about {
-    align-content: center;
-    flex-wrap: wrap;
+section {
+  text-align: center;
+  margin: 40px auto;
+  max-width: 800px;
+  background-color: aliceblue;
 }
