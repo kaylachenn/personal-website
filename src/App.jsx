@@ -12,12 +12,12 @@ function App() {
 
   return (
     <>
-       <Iridescence
+       {/* <Iridescence
         color={[.99, 1, 1]}
         mouseReact={false}
         amplitude={7.0}
         speed={1.0}
-      />
+      /> */}
 
       <Navbar/>
       <Home/>
