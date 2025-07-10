@@ -14,22 +14,26 @@ function Home() {
     />
 
     <section class="hero-section">
-      <h1 class="hero-name">KAYLA CHEN</h1>
+      <h1 class="hero-name">hi, i'm kayla!</h1>
     </section>
 
     <section id="about">
-      <h2>hi! my name is kayla</h2>
+      <h2>about</h2>
       <p>I'm a second-year Computer Science student at the University of Florida.</p>
+      <p>Skills:</p>
+      <p>HTML</p>
     </section>
 
     <section id="experience">
-        <li>Treasurer @ CS Kickstart</li>
-        <li>Sports Coordinator @ Society of Asian Scientists and Engineers</li>
+      <h2>experience</h2>
+      <li>Treasurer @ CS Kickstart</li>
+      <li>Sports Coordinator @ Society of Asian Scientists and Engineers</li>
     </section>
 
     <section id="projects">
-        <h2>below are some of the projects i've worked on so far!</h2>
-        <p>i'm interested in fullstack development</p>
+      <h2>projects</h2>
+      <h2>below are some of the projects i've worked on so far!</h2>
+      <p>i'm interested in fullstack development</p>
     </section>
     </>
   );
